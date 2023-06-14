@@ -1,0 +1,24 @@
+{
+   "sidebarInformations": [
+      {
+         "id": 1,
+         "title": "Mon compte",
+         "value": "compte"
+      },
+      {
+         "id": 2,
+         "title": "Parametres",
+         "value": "parameters"
+      },
+      {
+         "id": 3,
+         "title": "FAQ Aide",
+         "value": "compte"
+      },
+      {
+         "id": 4,
+         "title": "Mon compte",
+         "value": "compte"
+      }
+   ]
+}
