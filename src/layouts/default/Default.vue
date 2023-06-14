@@ -15,4 +15,8 @@ import DefaultView from "./View.vue";
 header {
   padding: 0px;
 }
+main {
+  margin: 0 auto;
+  max-width: 1280px;
+}
 </style>

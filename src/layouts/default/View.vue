@@ -8,4 +8,9 @@
 //
 </script>
 
-<style scoped></style>
+<style scoped>
+main {
+  margin: 0 auto;
+  max-width: 1280px;
+}
+</style>
